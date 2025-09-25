@@ -1,8 +1,19 @@
-# React + Vite
+Tech Stack:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+React – Frontend library
 
-Currently, two official plugins are available:
+Vite – Development and build tool
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Tailwind CSS – Utility-first styling
+
+Playwright – E2E testing
+
+Scripts:
+
+npm run dev – Start dev server
+
+npm run build – Build for production
+
+npm run preview – Preview production build
+
+npm run test – Run Playwright tests
